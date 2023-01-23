@@ -1,5 +1,4 @@
-:whale2: *CHEAT SHEET* :whale2:\
-=
+# :whale2: *CHEAT SHEET*
 
 </br>
 
