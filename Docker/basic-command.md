@@ -1,4 +1,4 @@
-<center> ### *CHEAT SHEET* </center>
+### *CHEAT SHEET*
 
 | Perintah | Fungsi |
 | ---      | ---    |
