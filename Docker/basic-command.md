@@ -1,4 +1,4 @@
-*CHEAT SHEET*
+*CHEAT SHEET* :whale2:
 =
 
 <br>
@@ -14,8 +14,9 @@
 |[docker start][docker-start] (name container/id container)| menjalankan container|
 |[docker stop][docker-stop] (name container/id container) | menghentikan container|
 |[docker rm][docker-rm] (name container/id container) | menghapus container|
+|
 
-
+<!-- Link -->
 [docker-image]: </Docker/docker-image.md>
 [docker-ps]: </Docker/docker-list.md>
 [docker-ps-a]: </Docker/docker-ps.md#docker ps -a>
