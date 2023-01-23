@@ -1,13 +1,16 @@
 # *Element di Markdown*
 
-[ title ]
+## Daftar Isi
+[Daftar Isi](#daftar-isi)
 [title](#title)
+[Format Penulisan](#format-penulisan)
 
 ## title
 
 di markdown title di tandai dengan pagar(#), anda dapat mengunakan 1 sampai 3 pagar.
 
 <br>
+
 ## Format Penulisan
 
 * bold ( \*\* \*\* ) = **tebal**
