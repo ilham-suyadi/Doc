@@ -1,28 +1,38 @@
 # *USER*
 
-## who
+## Melihat User
+
+### who
 melihat user yang saat ini login di linux.
 
-## w
+### w
 sama seperti who tapi disini kita dapat melihat hal yang tidak ada di who.
 
-## whoami
+### whoami
 melihat user apa yang kita gunakan.
 
-## who am i
+### who am i
 sama seperti whoami untuk melihat user yang kita gunakan, tapi disini kita dapat melihat beberapa keterangan.
 
-# id
+### id
 melihat id dan grup yang user digunakan.
 
-## su
+</br>
+
+## Change User
+
+### su
 perintah ini di gunakan untuk berpindah ke user root.
 
-## su -nama user
+### su -nama user
 pindah ke user lain.
 
-## adduser (name user)
+</br>
+
+## Menambah User & Grup
+
+### adduser (name user)
 menambahkan user baru.
 
-## passwd
+### passwd
 menambah atau mengedit password.
