@@ -17,7 +17,7 @@ di markdown title di tandai dengan pagar(#), anda dapat mengunakan 1 sampai 3 pa
 * # judul 1
 * ## judul 2
 * ### judul 3
-<br>
+
 ## Format Penulisan
 
 * bold ( \*\* \*\* ) = **tebal**
