@@ -48,7 +48,7 @@ di markdown title di tandai dengan pagar(#), anda dapat mengunakan 1 sampai 6 pa
 * miring ( \_ \_ ) = *miring*
 * strikeline( \~\~ \~\~ ) = ~~coret~~
 
-> *Note: dalam dalam pengunakan huruf tebal dan miring itu harus konsisten jika tidak maka tulisan di anggap error.*
+> :memo: *Note: dalam dalam pengunakan huruf tebal dan miring itu harus konsisten jika tidak maka tulisan di anggap error.*
 > *jika kita mengunakan kita mengunkan bintang untuk bold, maka lebih baik tetap terus mengunakan bintang untuk bold tanpa mengunkan undescore.*
 
 ## List
