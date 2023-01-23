@@ -1,7 +1,5 @@
-<center>
 :whale2: *CHEAT SHEET* :whale2:
 =
-</center>
 
 <br>
 <br>
