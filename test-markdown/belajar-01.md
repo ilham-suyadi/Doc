@@ -1,3 +1,6 @@
-# title
 
-untuk membuat judul di html kita menggunakan h1 sampai h6 sedangkan di markdown kita menggunakan # sampai ### (tiga pagar)
+# _Element di Markdown_
+
+## title
+
+di markdown title di tandai dengan pagar(#), anda dapat mengunakan 1 sampai 3 pagar.
