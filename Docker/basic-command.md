@@ -1,15 +1,7 @@
-<style>
-    .center{
-        text-align= center
-        justify-content= center
-        align-items= center
-    }
-</style>
-
-<div class="center">
+<center>
 :whale2: *CHEAT SHEET* :whale2:
 =
-</div>
+</center>
 
 <br>
 <br>
