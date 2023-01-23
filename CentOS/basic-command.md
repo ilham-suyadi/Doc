@@ -13,6 +13,7 @@
 | [mkdir] (nama directory) | membuat directory baru|
 | [rmdir] (nama directory) | menghapus directory |
 | [touch] (nama file)| membuat file baru|
+| [ip a] |melihat ip yang kita gunakan |
 
 <!-- link -->
 [su]: </CentOS/user.md#su>
@@ -23,3 +24,4 @@
 [mkdir]: </CentOS/directory&file.md#mkdir>
 [rmdir]: </CentOS/directory&file.md#rmdir>
 [touch]: </CentOS/directory&file.md#touch>
+[ip a]: </Centos/network.md#ip-a>
