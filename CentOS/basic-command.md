@@ -24,4 +24,4 @@
 [mkdir]: </CentOS/directory&file.md#mkdir>
 [rmdir]: </CentOS/directory&file.md#rmdir>
 [touch]: </CentOS/directory&file.md#touch>
-[ip a]: </Centos/network.md#ip-a>
+[ip a]: </CentOS/network.md#ip-a>
