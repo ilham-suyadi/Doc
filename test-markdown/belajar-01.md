@@ -38,5 +38,3 @@ untuk membuat sebuah list di
 | Name | commit |
 |:---  |  :---: |
 |ilham |  1     |
-
-lucu :joy:
