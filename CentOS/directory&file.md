@@ -1,5 +1,7 @@
 # *Directory & Files*
 
+## ls
+
 ## pwd
 
 ## cd
