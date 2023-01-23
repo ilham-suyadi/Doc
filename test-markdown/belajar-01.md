@@ -7,11 +7,13 @@
   - [Headings](#headings)
   - [Format Penulisan](#format-penulisan)
   - [List](#list)
+  - [Check List](#check-list)
   - [Table](#table)
+  - [Emoji](#emoji)
 
 ## Headings
 
-di markdown title di tandai dengan pagar(#), anda dapat mengunakan 1 sampai 3 pagar.
+di markdown title di tandai dengan pagar(#), anda dapat mengunakan 1 sampai 6 pagar.
 *cth:*
 
 * # judul 1
@@ -20,6 +22,10 @@ di markdown title di tandai dengan pagar(#), anda dapat mengunakan 1 sampai 3 pa
 * #### judul 4
 * ##### judul 5
 * ###### judul 6
+
+<br>
+<br>
+
 
 ## Format Penulisan
 
@@ -34,19 +40,24 @@ di markdown title di tandai dengan pagar(#), anda dapat mengunakan 1 sampai 3 pa
 
 ## List
 
-- list petama
-  - sub
-  - sub
-- list kedua
+* list dengan strip
+    * sub
+    * sub
+* list dengan strip
 
 * list dengan bintang
-  * sub list dengan bintang
-  
+    * sub list dengan bintang
 
+## Check List
+
+* [ ] list biasa
+* [x] list dengan centang
 
 ## Table
 
 | Name | commit |
-|:---  |  :---: |
-|ilham |  1     |
+| :--- | :----: |
+| ilham | 1 |
+
+## Emoji
 
