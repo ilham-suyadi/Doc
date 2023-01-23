@@ -4,12 +4,12 @@
 
 - [Element di Markdown](#element-di-markdown)
 - [*Daftar Isi*](#daftar-isi)
-  - [title](#title)
+  - [Headings](#headings)
   - [Format Penulisan](#format-penulisan)
   - [List](#list)
   - [Table](#table)
 
-## title
+## Headings
 
 di markdown title di tandai dengan pagar(#), anda dapat mengunakan 1 sampai 3 pagar.
 *cth:*
@@ -17,6 +17,9 @@ di markdown title di tandai dengan pagar(#), anda dapat mengunakan 1 sampai 3 pa
 * # judul 1
 * ## judul 2
 * ### judul 3
+* #### judul 4
+* ##### judul 5
+* ###### judul 6
 
 ## Format Penulisan
 
@@ -31,10 +34,19 @@ di markdown title di tandai dengan pagar(#), anda dapat mengunakan 1 sampai 3 pa
 
 ## List
 
-untuk membuat sebuah list di
+- list petama
+  - sub
+  - sub
+- list kedua
+
+* list dengan bintang
+  * sub list dengan bintang
+  
+
 
 ## Table
 
 | Name | commit |
 |:---  |  :---: |
 |ilham |  1     |
+
