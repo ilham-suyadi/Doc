@@ -1,4 +1,4 @@
-# :penguin: *Cheat Sheet* :penguin:\
+# :penguin: *Cheat Sheet* :penguin: \*
 
 </br>
 
