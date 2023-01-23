@@ -18,6 +18,7 @@
 <!-- link -->
 [su]: </CentOS/user.md#su>
 [su-user]: </CentOS/user.md#su--nama-user>
+[adduser]: <CentOS/user.md#adduser>
 [ls]: </CentOS/directory&file.md#ls>
 [pwd]: </CentOS/directory&file.md#pwd>
 [cd]: </CentOS/directory&file.md#cd>
