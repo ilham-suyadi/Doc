@@ -1,10 +1,10 @@
 *Element di Markdown*
 =
 
-## Daftar Isi
+# Daftar Isi
 
 - [*Element di Markdown*](#element-di-markdown)
-  - [Daftar Isi](#daftar-isi)
+- [Daftar Isi](#daftar-isi)
   - [title](#title)
   - [Format Penulisan](#format-penulisan)
   - [List](#list)
