@@ -18,8 +18,8 @@ di markdown title di tandai dengan pagar(#), anda dapat mengunakan 1 sampai 6 pa
 
 | code | Output |
 |---   | ---    |
-| #\judul 1 | # judul1 |
-* # judul 1
+| #\judul 1 | # judul1|
+* # judul 1 | #\judul1|
 * ## judul 2
 * ### judul 3
 * #### judul 4
