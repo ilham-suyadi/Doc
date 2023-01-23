@@ -74,3 +74,9 @@ di markdown title di tandai dengan pagar(#), anda dapat mengunakan 1 sampai 6 pa
 
 ## Emoji
 
+https://gist.github.com/rxaviers/7360908
+
+```sh
+npm install --production
+NODE_ENV=production node app
+```
