@@ -1,7 +1,7 @@
 # *Element di Markdown*
 
 [ title ]
-[title](title)
+[title](#title)
 
 ## title
 
