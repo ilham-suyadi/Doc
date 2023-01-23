@@ -1,4 +1,4 @@
-:whale2: *CHEAT SHEET* :whale2
+:whale2: *CHEAT SHEET* :whale2:
 =
 
 <br>
@@ -15,8 +15,8 @@
 |[docker start][docker-start] (name container/id container)| menjalankan container|
 |[docker stop][docker-stop] (name container/id container) | menghentikan container|
 |[docker rm][docker-rm] (name container/id container) | menghapus container|
-|[docker rmi][docker-rmi] (name image/id image) | menghapus image |
-|[docker prune]
+|[docker rmi][docker-rmi] (name image/id image) | menghapus image|
+|[docker prune]| untuk membersihkan file smapah|
 
 <!-- Link -->
 [docker-image]: </Docker/docker-image.md>
