@@ -1,3 +1,0 @@
-:penguin: *Cheat Sheet* :penguin:
-=
-
