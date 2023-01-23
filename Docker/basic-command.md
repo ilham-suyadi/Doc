@@ -1,7 +1,7 @@
-:whale2: *CHEAT SHEET* :whale2:
+:whale2: *CHEAT SHEET* :whale2:\
 =
 
-<br>
+</br>
 
 | Perintah | Fungsi |
 | ---      | ---    |
