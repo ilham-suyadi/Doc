@@ -16,6 +16,9 @@
 di markdown title di tandai dengan pagar(#), anda dapat mengunakan 1 sampai 6 pagar.
 *cth:*
 
+| code | Output |
+|---   | ---    |
+| #\judul 1 | # judul1 |
 * # judul 1
 * ## judul 2
 * ### judul 3
