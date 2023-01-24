@@ -80,5 +80,5 @@ NODE_ENV=production node app
 ```
 
 <div style="width:60px ; height:60px">
-![Employee data](/assets/img/01.png?raw=true "Employee Data title")
+![Employee data](/assets/img/01.png)
 <div>
