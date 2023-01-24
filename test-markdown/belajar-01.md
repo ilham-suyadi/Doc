@@ -78,5 +78,8 @@ di markdown title di tandai dengan pagar(#), anda dapat mengunakan 1 sampai 6 pa
 npm install --production
 NODE_ENV=production node app
 ```
+<img src="http://url/image.png" style=" width:60px ; height:60px "  >
 
-![Employee data](/assets/img/01.png)
+<img src="/assets/img/01.png" style=" width:60px ; height:60px "  >
+
+<!-- ![Employee data](/assets/img/01.png) -->
