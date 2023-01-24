@@ -1,9 +1,9 @@
 # Element di Markdown
 
-# *Daftar Isi*
+## *Daftar Isi*
 
 - [Element di Markdown](#element-di-markdown)
-- [*Daftar Isi*](#daftar-isi)
+  - [*Daftar Isi*](#daftar-isi)
   - [Headings](#headings)
   - [Format Penulisan](#format-penulisan)
   - [List](#list)
@@ -25,20 +25,18 @@ di markdown title di tandai dengan pagar(#), anda dapat mengunakan 1 sampai 6 pa
 | ##### judul 5 |
 | ###### judul 6 |
 > untuk output hasilnya dibawah ini :arrow_down: :arrow_down: :arrow_down:
-* # judul 1 
+
+* # judul 1
 * ## judul 2
 * ### judul 3
 * #### judul 4
 * ##### judul 5
 * ###### judul 6
 
-
 > anda dapat juga mengunakan sama dengan (=) sebagai penganti pagar 1 (#) atau heading level 1, sedangkan strip (-) sebagai penganti pagar 2 (##) atau heading level 2.
 
-
-<br>
-<br>
-
+</br>
+</br>
 
 ## Format Penulisan
 
@@ -63,8 +61,8 @@ di markdown title di tandai dengan pagar(#), anda dapat mengunakan 1 sampai 6 pa
 
 ## Check List
 
-* [ ] list biasa
-* [x] list dengan centang
+- [ ] list biasa
+- [x] list dengan centang
 
 ## Table
 
