@@ -34,3 +34,5 @@
    firewall-cmd --remove-service=ssh --permanent
    ```
     ![firewall](../assets/img/linux-mengubah%20firewall.png)
+
+> :link: [Referensi]<https://docs.rackspace.com/support/how-to/change-the-ssh-port-in-centos-and-redhat/>
