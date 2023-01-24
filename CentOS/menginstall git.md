@@ -6,7 +6,7 @@
    yum install git
    ```
 
-  ![git install](/assets/img/Screenshot_2.png)
+   ![git install](/assets/img/Screenshot_2.png)
 
 2. mengecek versi dari git yang kita install :
 
