@@ -36,6 +36,8 @@
     yum -y install https://packages.endpointdev.com/rhel/7/os/x86_64/endpoint-repo.x86_64.rpm
    ```
 
+    ![git repo](/assets/img/Screenshot_7.png)
+
 3. selanjutnya adalah menginstall git, perintah untuk untuk mengintall git :
 
     ```sh
@@ -43,6 +45,7 @@
    atau
    yum install git -y
    ```
+   ![git installl](/assets/img/Screenshot_6.png)
 
 4. cek versi :
 
@@ -51,8 +54,11 @@
     atau
     git -v
     ```
+    
+    ![git versio 2](/assets/img/05.png)
 
-> :note: Catatan: yang membedakan proses instal git versi 1.8 dengan git versi 2, yaitu di bagian repository di git 1.8 kita tidak menmbahkan repository, sedangkan di versi 2 kita menambahkan repository baru seblum waktu penginstalan.
+
+> :memo: Catatan= yang membedakan proses instal git versi 1.8 dengan git versi 2, yaitu di bagian repository di git 1.8 kita tidak menmbahkan repository, sedangkan di versi 2 kita menambahkan repository baru seblum waktu penginstalan.
 
 :book: Refrensi untuk install git <https://www.vultr.com/docs/how-to-install-git-on-centos-7/>
 :book: Refrensi untuk install git versi 2 <https://computingforgeeks.com/install-git-2-on-centos-7/>
