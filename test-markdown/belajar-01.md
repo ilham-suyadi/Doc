@@ -26,6 +26,7 @@ di markdown title di tandai dengan pagar(#), anda dapat mengunakan 1 sampai 6 pa
  ##### judul 5 
  ###### judul 6 
 ```
+
 > untuk output hasilnya dibawah ini :arrow_down: :arrow_down: :arrow_down:
 
 * # judul 1
@@ -97,4 +98,4 @@ npm install --production
 NODE_ENV=production node app
 ```
 
-<img src="/assets/img/01.png" style=" width:100px ; height:160px "/>
+<img src="/assets/img/01.png" style=" width:170px ; height:100px"/>
