@@ -10,6 +10,7 @@
   - [Check List](#check-list)
   - [Table](#table)
   - [Emoji](#emoji)
+  - [link](#link)
 
 ## Headings
 
@@ -68,10 +69,16 @@ code :
 ```
 
 output :
-[ ] list biasa
-[x] list dengan centang
+- [ ] list biasa
+- [x] list dengan centang
 
 ## Table
+
+```sh
+| Name | commit |
+| :--- | :----: |
+| ilham | 1 |
+```
 
 | Name | commit |
 | :--- | :----: |
@@ -79,11 +86,14 @@ output :
 
 ## Emoji
 
-[icon](https://gist.github.com/rxaviers/7360908)
+
+## link
+
+[link](https://gist.github.com/rxaviers/7360908)
 
 ```sh
 npm install --production
 NODE_ENV=production node app
 ```
 
-<img src="/assets/img/01.png" style=" width:60px ; height:60px "/>
+<img src="/assets/img/01.png" style=" width:100px ; height:160px "/>
