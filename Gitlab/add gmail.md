@@ -6,7 +6,7 @@ sebelum kita menambahkan akun gmail ke dalam gitlab, kita harus menyetting beber
 
 >1. kita masuk ke [my account google], pastikan kita sudah masuk masuk ke akun gmail kita.
 >2. klik keaman atau security, dan scroll ke bawah sampai ke login gmail.
->![gmail-1]
+>![01]
 >3. yang kita atur :
 >       1. mengatur verifikasi 2 langkah.
 >           - klik verifikasi 2 langkah
@@ -19,8 +19,15 @@ sebelum kita menambahkan akun gmail ke dalam gitlab, kita harus menyetting beber
 >           - di sandi aplikasi, kita pilih yang bawah, dan klik pilih aplikasi dan *pilih lainnya (nama kustom)*
 >           - setelah itu kita masukkan nama, untuk nama itu bebas, tapi disini saya menggunakan *gitlab-gmail*, jika sudah maka tekan buat.
 >           - setelah itu akan muncul kata sandi yang nanti kita gunakan untuk gitlab, saya sarankan anda mengcopy sandi perangkat anda.
->  !</assets/img/07.png>
-> 
+>  ![07]
+>           - setelah itu nama yang telah kita buat akan muncul di sandi aplikasi.
+> ![08]
 <!-- link -->
 [my account google]: <https://myaccount.google.com/>
-[gmail-1]: </assets/img/01.png>
+[01]: </assets/img/01.png>
+<!-- [07]: </assets/img/07.png>
+[07]: </assets/img/07.png>
+[07]: </assets/img/07.png>
+[07]: </assets/img/07.png> -->
+[07]: </assets/img/07.png>
+[08]: </assets/img/08.png>
