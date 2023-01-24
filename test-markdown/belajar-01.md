@@ -61,6 +61,11 @@ di markdown title di tandai dengan pagar(#), anda dapat mengunakan 1 sampai 6 pa
 
 ## Check List
 
+```sh
+- [ ] list biasa
+- [x] list dengan centang
+```
+
 - [ ] list biasa
 - [x] list dengan centang
 
