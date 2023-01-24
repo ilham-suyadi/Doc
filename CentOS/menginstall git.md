@@ -55,7 +55,7 @@
     git -v
     ```
     
-    ![git versio 2](/assets/img/05.png)
+    ![git versio 2](/assets/img/5.png)
 
 
 > :memo: Catatan= yang membedakan proses instal git versi 1.8 dengan git versi 2, yaitu di bagian repository di git 1.8 kita tidak menmbahkan repository, sedangkan di versi 2 kita menambahkan repository baru seblum waktu penginstalan.
