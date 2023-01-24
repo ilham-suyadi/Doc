@@ -17,14 +17,15 @@
 di markdown title di tandai dengan pagar(#), anda dapat mengunakan 1 sampai 6 pagar.
 *cth:*
 
-| code    |
-|---       |
-| # judul 1 |
-| ## judul 2 |
-| ### judul 3 |
-| #### judul 4 |
-| ##### judul 5 |
-| ###### judul 6 |
+```sh
+ code :
+ # judul 1 
+ ## judul 2 
+ ### judul 3 
+ #### judul 4 
+ ##### judul 5 
+ ###### judul 6 
+```
 > untuk output hasilnya dibawah ini :arrow_down: :arrow_down: :arrow_down:
 
 * # judul 1
