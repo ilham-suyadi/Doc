@@ -34,8 +34,6 @@ export GITLAB_HOME=/srv/gitlab
         shm_size: '256m'
 ```
 
-> silahkan sesuikan
-
 </br>
 
 > 2. menjalankan docker compose dengan perintah:
