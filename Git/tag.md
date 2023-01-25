@@ -23,3 +23,17 @@ git push origin <tag name>
 ```sh
 git pull
 ```
+
+## Pindah ke Tag Lain
+
+```sh
+git checkout <tag name tujuan>
+```
+
+## Pindah kembali ke semula
+
+```sh
+git checkout main
+```
+
+> :link: Refrensi : <https://www.atlassian.com/git/tutorials/inspecting-a-repository/git-tag>
