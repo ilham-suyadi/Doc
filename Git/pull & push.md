@@ -1,5 +1,7 @@
 # Pull & Push Git
 
-## pull
+## Push
 
-pull 
+```sh
+git push -u origin <name branch>
+```

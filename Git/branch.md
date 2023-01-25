@@ -15,8 +15,8 @@ git branch --list
 ## Mengubah Branch
 
 ```sh
-git 
+git checkout <name branch>
 ```
 
 > :list: Refrensi : - <https://git-scm.com/docs/git-branch>
->                   - <https://www.hostinger.co.id/tutorial/git-branch>
+>                   - <https://www.petanikode.com/git-branch/>
