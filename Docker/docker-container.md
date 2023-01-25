@@ -30,6 +30,18 @@ docker run -d --name (name container) -p (port yang kita inginkan):(port dari ap
 
 ## Docker start
 
+```sh
+docker start (name container/id container)
+```
+
 ## Docker Stop
 
+```sh
+docker stop (name container/id container)
+```
+
 ## Docker rm
+
+```sh
+docker rm (name container/id container)
+```
