@@ -41,3 +41,5 @@ export GITLAB_HOME=/srv/gitlab
 ```sh
 docker compose up -d
 ```
+
+> > :link: Referensi : <https://docs.gitlab.com/ee/install/docker.html>
