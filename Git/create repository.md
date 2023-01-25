@@ -16,4 +16,4 @@ perintah mengeclone sebuah repository menggunakan git adalah :
 git clone <url>
 ```
 
-> :link: Refrensi : <https://kbroman.org/github_tutorial/pages/init.html>
+> :link: Referensi : <https://kbroman.org/github_tutorial/pages/init.html>
