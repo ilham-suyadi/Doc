@@ -15,12 +15,12 @@ chown git:git /var/opt/gitlab/backups/11493107454_2018_04_25_10.6.4-ce_gitlab_ba
 ```
 
 > 2. menghentikan beberapa proses di gitlab :
->
-> ```sh
-> sudo gitlab-ctl stop puma
->
-> sudo gitlab-ctl stop sidekiq
-> ```
+
+```sh
+sudo gitlab-ctl stop puma
+
+sudo gitlab-ctl stop sidekiq
+```
 
 > 3. memverifikasi status yang berjalan
 
