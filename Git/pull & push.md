@@ -13,4 +13,5 @@ git push -u origin <name branch>
 pull adalah mendownload file atau perubahan dari github ke local
 
 ```sh
+git pull
 ```
