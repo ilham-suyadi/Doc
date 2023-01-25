@@ -1,5 +1,7 @@
 # Tag
 
+Tag berguna sebagai penganti dari origin user atau branch.
+
 ## Create Tag
 
 ```sh

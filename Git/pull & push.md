@@ -17,3 +17,17 @@ pull adalah mendownload file atau perubahan dari github ke local
 ```sh
 git pull
 ```
+
+## git log
+
+log untuk melihat hasil commit
+
+```sh
+git log
+```
+
+versi sederhana git log
+
+```sh
+git log --oneline
+```
