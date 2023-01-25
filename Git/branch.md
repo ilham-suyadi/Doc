@@ -6,10 +6,15 @@
 git branch <name branch baru>
 ```
 
-## Melihat Semua Branch
+## Melihat Branch
 
 ```sh
-git branch --list
+git branch
+```
+
+## Melihat Branch & Remote Branch
+```sh
+git branch -a
 ```
 
 ## Mengubah Branch
