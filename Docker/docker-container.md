@@ -45,3 +45,19 @@ docker stop (name container/id container)
 ```sh
 docker rm (name container/id container)
 ```
+
+## Menghapus semua container yang bersestatus exit
+
+```sh
+docker rm $(docker ps -a -q -f status=exited)
+```
+
+- status=exited : perintah ini akan menghapus semua docker container yang bersetatus exit/exited
+- -q : hanya mengembalikan ID numerik
+- -f : memfilter keluaran berdasarkan kondisi yang disediakan
+
+## membersihkan docker
+
+```sh
+docker container prune
+```
