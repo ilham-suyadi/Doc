@@ -15,8 +15,17 @@ git branch --list
 ## Mengubah Branch
 
 ```sh
-git checkout <name branch>
+git checkout <name branch tujuan>
 ```
 
-> :list: Refrensi : - <https://git-scm.com/docs/git-branch>
->                   - <https://www.petanikode.com/git-branch/>
+## git merge
+
+merge beguna untuk untuk menggabungkan atau mengambil file dari branch lain.
+
+```sh
+git merge <branch lain>
+```
+
+> :list: Refrensi :
+>- <https://git-scm.com/docs/git-branch>
+>- <https://www.petanikode.com/git-branch/>
