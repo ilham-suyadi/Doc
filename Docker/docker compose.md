@@ -18,6 +18,8 @@ docker compose secara default bernama docker-compose.yml, tapi docker compose ju
 > ***dengan format penulisan :***   image: (name image)
 > ![01](/assets/img/docker-compose-01.png)
 >5. setelah itu semuanya bersifat opsional.
+>
+>
 >6. contoh penulisan :
 >![02](/assets/img/docker-compose-02.png)
 >![03](/assets/img/docker-compose-03.png)
