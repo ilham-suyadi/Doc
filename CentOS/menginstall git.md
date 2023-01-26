@@ -58,7 +58,7 @@
 
     ![git versio 2](/assets/img/Screenshot_5.png)
 
-> :memo: Catatan= yang membedakan proses instal git versi 1.8 dengan git versi 2, yaitu di bagian repository di git 1.8 kita tidak menmbahkan repository, sedangkan di versi 2 kita menambahkan repository baru seblum waktu penginstalan.
+> :memo: Catatan= yang membedakan proses instal git versi 1.8 dengan git versi 2, yaitu di bagian repository di git 1.8 kita tidak menambahkan repository, sedangkan di versi 2 kita menambahkan repository baru sebelum waktu penginstalan.
 
 - :book: Refrensi untuk install git <https://www.vultr.com/docs/how-to-install-git-on-centos-7/>
 - :book: Refrensi untuk install git versi 2 <https://computingforgeeks.com/install-git-2-on-centos-7/>

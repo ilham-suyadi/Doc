@@ -12,7 +12,7 @@ ip a
 
 ### Tracepath
 
-tracepatch berguna untuk melacak jalur yang di lalui dan melaporkan setiap lompatan di setiap jalur, ini berguna untuk mengecek jika ada koneksi yang lambat.
+tracepatch berguna untuk melacak jalur yang dilalui dan melaporkan setiap lompatan di setiap jalur, ini berguna untuk mengecek jika ada koneksi yang lambat.
 
 ```sh
 tracepath (dns tujuan)
@@ -20,7 +20,7 @@ tracepath (dns tujuan)
 
 ### Ping
 
-mengecek coneksi antara komputer kita dengan ip/dns tujuan
+mengecek koneksi antara komputer kita dengan ip/dns tujuan
 
 ```sh
 ping (ip/dns tujuan)
@@ -28,7 +28,7 @@ ping (ip/dns tujuan)
 
 ### routel
 
-menampikan perutean di ip yang kita gunakan
+menampilkan perutean di ip yang kita gunakan
 
 ```sh
 routel
@@ -57,7 +57,7 @@ hostname
 ### melihat short hostname
 
 ```sh
-hosname -s
+hostname -s
 ```
 
 ### Mengubah Hostname

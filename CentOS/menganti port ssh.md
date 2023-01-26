@@ -1,4 +1,4 @@
-# menganti port ssh
+# mengganti port ssh
 
 ## 1. edit di sshd_config
 

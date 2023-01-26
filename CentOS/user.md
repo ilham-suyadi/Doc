@@ -30,7 +30,7 @@ melihat id dan grup yang user digunakan.
 
 ### su
 
-perintah ini di gunakan untuk berpindah ke user root.
+perintah ini digunakan untuk berpindah ke user root.
 
 ### su -nama user
 
@@ -38,7 +38,7 @@ pindah ke user lain.
 
 </br>
 
-## Menambah User & Grup
+## Menambah User & Gruop
 
 ### adduser (name user)
 

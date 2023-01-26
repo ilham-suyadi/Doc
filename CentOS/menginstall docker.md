@@ -13,7 +13,7 @@ yum remove docker \
              docker-engine
 ```
 
-## Menginstall docker mengunakan repository
+## Menginstall docker menggunakan repository
 
 ### Add Repository
 
