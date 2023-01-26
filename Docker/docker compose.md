@@ -21,7 +21,6 @@ docker compose secara default bernama docker-compose.yml, tapi docker compose ju
 >
 >
 >6. contoh penulisan :
->![02](/assets/img/docker-compose-02.png)
 >![03](/assets/img/docker-compose-03.png)
 >
 > > :memo: Catatan : docker compose memperhatikan map/tap/struktur yang di gunakan dalam penulisan
