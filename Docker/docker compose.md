@@ -23,3 +23,16 @@ docker compose secara default bernama docker-compose.yml, tapi docker compose ju
 >![03](/assets/img/docker-compose-03.png)
 >
 > > :memo: Catatan : docker compose memperhatikan map/tap/struktur yang di gunakan dalam penulisan
+
+## 3. menjalankan perintah yang ada di docker compose yml
+
+ jika file tersebut bernama `docker-compose.yml` maka dapat mejalankan perintah :
+
+ ```sh
+ docker compose up -d
+ ```
+
+atau jika file tersebut bernama lain tapi berektensi `.yml` maka menjalankan perintah :
+
+```sh
+docker compose -f (name-file).yml up -d
