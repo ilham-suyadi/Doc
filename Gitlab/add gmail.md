@@ -29,7 +29,7 @@ sebelum kita menambahkan akun gmail ke dalam gitlab, kita harus menyetting beber
 > > ![07](/assets/img/07.png)
 >
 >           - setelah itu nama yang telah kita buat akan muncul di sandi aplikasi.
-> > <img src="/assets/img/08.png" style=" width:560px ; height: 500px" >
+> > <img src="/assets/img/08.png" style=" width:560px ; height: 400px" >
 >
 > 4. configurasi gitlab
 >
