@@ -33,6 +33,9 @@ sebelum kita menambahkan akun gmail ke dalam gitlab, kita harus menyetting beber
     > - sesuaikan script dengan gambar di bawah ini
     > - ![02](/assets/img/Screenshot_14.png)
     > - dan reconfigure gitlab dengan perintah *gitlab-ctl reconfigure*
+
+> :link: Referensi: <https://docs.gitlab.com/ee/user/admin_area/email_from_gitlab.html>
+
 <!-- link -->
 [my account google]: <https://myaccount.google.com/>
 [video tutorial]: <https://www.youtube.com/watch?v=pAPWBHxnFHM>
