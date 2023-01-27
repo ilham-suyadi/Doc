@@ -17,4 +17,4 @@
 |id | melihat id dan grup yang user digunakan|
 |chmod (option) (file) | mengubah ijin file |
 |getent group | melihat grup |
-|chgrp (name group) (name file)
+|chgrp (name group) (name file)| memasukkan file ke dalam group|
