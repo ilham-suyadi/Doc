@@ -1,5 +1,7 @@
 # docker compose
 
+docker compose berguna untuk membuat sebuah container
+
 ## 1. nama file untuk docker compose
 
 docker compose secara default bernama docker-compose.yml, tapi docker compose juga bisa menjalankan file dengan nama lain asalkan menggunakan ekstensi *.yml*. ***cth :*** install-gitlab.yml, nginx.yml
