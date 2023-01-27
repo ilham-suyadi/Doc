@@ -1,73 +1,14 @@
 # Host Network
 
-## Network
-
-### ip a
-
-untuk melihat ip yang kita dapatkan kita bisa menggunakan perintah:
-
-```sh
-ip a
-```
-
-### Tracepath
-
-tracepatch berguna untuk melacak jalur yang dilalui dan melaporkan setiap lompatan di setiap jalur, ini berguna untuk mengecek jika ada koneksi yang lambat.
-
-```sh
-tracepath (dns tujuan)
-```
-
-### Ping
-
-mengecek koneksi antara komputer kita dengan ip/dns tujuan
-
-```sh
-ping (ip/dns tujuan)
-```
-
-### routel
-
-menampilkan perutean di ip yang kita gunakan
-
-```sh
-routel
-```
-
-### Mengambil Konten/menampilkan konten tertentu dari url
-
-```sh
-curl (link/url)
-```
-
-### Mengunduh file dari web
-
-```sh
-curl -O (link/url)
-```
-
-## Hostname
-
-### Melihat Hostname
-
-```sh
-hostname
-```
-
-### melihat short hostname
-
-```sh
-hostname -s
-```
-
-### Mengubah Hostname
-
-```sh
-hostnamectl set-hostname (name.hostname)
-```
-
-## Mengubah Hostname dan ip dengan Gui
-
-```sh
-nmtui
-```
+| Perintah | Fungsi |
+|--- | --- |
+|ip -a | melihat ip yang didapatkan |
+|tracepath (ip/dns tujuan) |  berguna untuk melacak jalur yang dilalui dan melaporkan setiap lompatan di setiap jalur|
+|ping (ip/dns tujuan) | untuk mengecek koneksi ke dns/ip tujuan|
+|routel | menampilkan perutean yang di gunakan ip|
+|curl | Mengambil/menampilkan konten tertentu dari url |
+|curl -o | mengunduh file dari web |
+|hostname | melihat hostname yang digunakan |
+|hostname -s | melihat short hostname|
+|hostnamectl set-hostname (name.hostname) | Mengubah Hostname|
+|nmtui | Mengubah Hostname dan ip dengan Gui|

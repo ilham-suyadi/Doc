@@ -1,7 +1,5 @@
 # Directory & Files
 
-## LIst
-
 | perintah | fungsi |
 |---    |---    |
 |ls     | melihat list file dan directory di dalam folder|
@@ -15,122 +13,21 @@
 |ls -R | menampilkan konten sub directori |
 |ls ../| memperlihatkan isi file indux/home |
 |ls ~  | menunjukkan isi dari directory home|
-|ls -r |
-
----
-
-## Directory
-
-### membuat sebuah directory
-
-```sh
-mkdir (name directory)
-```
-
-### membuat beberapa directory bersamaan
-
-```sh
-mkdir (name directory 1) (name directory 2) (name directory 3)
-```
-
-### membuat directory dan menampilkan pesan proses
-
-```sh
-mkdir -v (name directory)
-```
-
-### membuat directory dan memberi akses
-
-```sh
-mkdir -m=rwx (name directory)
-atau
-mkdir -m 777 (name directory)
-```
-
-### membuat directory dan sub directory
-
-```sh
-mkdir -p (name directory)/(name sub directory)
-```
-
-### menghapus directory
-
-```sh
-rmdir (name directory)
-```
-
-### menghapus directory dan sub directory
-
-```sh
-mkdir -p (name directory)/(name sub directory)
-```
-
-### mengubah nama folder atau file
-
-```sh
-mv (old name) (new name)
-```
-
-### mencari sebuah sub folder
-
-```sh
-find . -depth -type d -name (New_folder)
-```
-
----
-
-## Membuat dan Menghapus file
-
-### membuat file
-
-```sh
-touch (name file)
-```
-
-### menghapus file
-
-```sh
-rm (name file)
-```
-
-### menghapus file berdasarkan ekstensi
-
-```sh
-rm *(ekstensi)
-```
-
-### menghapus file secara interaktif(ada konfirmasi)
-
-```sh
-rm -i
-```
-
-### mengopy file atau directory
-
-```sh
-cp (sumber) (tujuan)
-```
-
-### mengopy directory dan sub directory
-
-```sh
-cp -r (sumber) (tujuan)
-```
-
----
-
-## Lain lain
-
-### melihat posisi directory yang di akses
-
-pwd berguna untuk me
-
-```sh
-pwd
-```
-
-### cd
-
-```sh
-cd <directory tujuan>
-```
+|ls -r | |
+|mkdir (nama directory) | membuat sebuah directory |
+|mkdir (directory 1) (directory 2) (directory 3) | membuat beberapa directory bersamaan |
+|mkdir -v (nama directory) | membuat directory dan menampilkan pesan proses|
+|mkdir -m=rwx (nama directory) |membuat directory dan memberi akses|
+|mkdir -m 777 (nama directory) |membuat directory dan memberi akses|
+|mkdir -p (directory)/(sub directory) | membuat directory dan sub directory|
+|rmdir (nama directory) |menghapus directory|
+|rmdir -p (directory)/(sub directory)| menghapus directory dan sub directory |
+|mv (nama lama) (nama baru) | mengubah nama folder/file|
+|find . -depth -type d -name (Nama folder) | mencari sebuah sub folder |
+|touch (nama file) | membuat file baru|
+|rm (nama file) | menghapus file |
+|rm -i | menghapus file secara interaktif(ada konfirmasi) |
+|cp (sumber) (tujuan) | mengopy file atau directory|
+|cp -r (sumber) (tujuan) | mengopy directory dan sub directory |
+|pwd | melihat posisi directory yang di akses|
+|cd (directory tujuan) | pindah ke directory lain |

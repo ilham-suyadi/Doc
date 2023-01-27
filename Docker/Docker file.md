@@ -13,3 +13,5 @@ Dockerfile berguna untuk membuat docker images, berikut cara membaut docker file
 ## Multi stage
 
 multi-stage adalah dockerfile yang berisi dua atau lebih image yang berbeda, untuk perintah dan penulisan yang hampir sama dengan docker file
+
+> :link: Referensi : <https://docs.docker.com/build/building/multi-stage/>
