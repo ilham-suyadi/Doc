@@ -3,7 +3,7 @@
 1. pastikan sudah punya container yang ingin di commit
 2. jika sudah ada masukkan perintah *docker commit (name container)*
 3. untuk mengeceknya bisa mengetikkan perintah *docker images* dan biasanya name repository dan tag `<none>` atau tidak ada
-4. untuk memberi nama mengetikan perintah *docker tag (id image) (nama yang di inginkan)*
+4. untuk memberi nama mengetikan perintah *docker tag (id image) (nama yang diinginkan)*
 
 > :link: Referensi:
 >

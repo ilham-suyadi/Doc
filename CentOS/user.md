@@ -15,6 +15,6 @@
 |whoami|melihat user apa yang kita gunakan|
 |who am i | sama seperti whoami untuk melihat user yang kita gunakan, tapi disini kita dapat melihat beberapa keterangan |
 |id | melihat id dan grup yang user digunakan|
-|chmod (option) (file) | mengubah ijin file |
+|chmod (option) (file) | mengubah izin file |
 |getent group | melihat grup |
 |chgrp (name group) (name file)| memasukkan file ke dalam group|

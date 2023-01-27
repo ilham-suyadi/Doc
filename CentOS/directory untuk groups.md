@@ -10,4 +10,4 @@
 8. memasukkan directory ke group, dengan perintah *chgrp (name group) (name file)*
 9. jika sudah maka file tersebut dapat diakses oleh grup yang di ijinkan
 
-> :memo: Catatan: pastikan file yang di upload di group tersebut sudah di atur ijinnya dengan cara *chmod 770 (name file)*, kalau tidak maka file tersebut akan terkunci atau tidak bisa di edit oleh orang lain
+> :memo: Catatan: pastikan file yang di upload di group tersebut sudah diatur ijinnya dengan cara *chmod 770 (name file)*, kalau tidak maka file tersebut akan terkunci atau tidak bisa di edit oleh orang lain

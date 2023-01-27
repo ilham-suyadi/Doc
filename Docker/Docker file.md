@@ -1,9 +1,9 @@
 # DOCKERFILE
 
-Dockerfile berguna untuk membuat docker images, berikut cara membaut docker file dan menjalankannya
+Dockerfile berguna untuk membuat docker images, berikut cara membuat docker file dan menjalankannya
 
 1. untuk nama dockerfile secara default bernama *Dockerfile*
-2. Dockerfile di awali dari *FROM* yang berisi image dasar
+2. Dockerfile diawali dari *FROM* yang berisi image dasar
 3. untuk baris selanjutnya sesuaikan dengan perintah yang dibutuhkan
     ![dockerfile](/assets/img/dockerfile.png)
 4. untuk mengeksekusi dockerfile bisa mengetikan perintah *docker build -t (name images):(tag) (path lokasi dockerfile)

@@ -4,7 +4,7 @@
 |---    |---    |
 |ls     | melihat list file dan directory di dalam folder|
 |ls -l  | melihat list dengan format panjang |
-|ls -lh | memperihatikan ukuran file yang ada |
+|ls -lh | memperlihatkan ukuran file yang ada |
 |ls -l --block-size=(k/m/g) | memperlihatkan ukuran file dengan format tertentu|
 |ls -S | mengurutkan file dari yang terbesar |
 |ls -t | mengurutkan file yang baru di edit|
@@ -27,7 +27,7 @@
 |touch (nama file) | membuat file baru|
 |rm (nama file) | menghapus file |
 |rm -i | menghapus file secara interaktif(ada konfirmasi) |
-|cp (sumber) (tujuan) | mengopy file atau directory|
+|cp (sumber) (tujuan) | mengcopy file atau directory|
 |cp -r (sumber) (tujuan) | mengopy directory dan sub directory |
 |pwd | melihat posisi directory yang di akses|
 |cd (directory tujuan) | pindah ke directory lain |
