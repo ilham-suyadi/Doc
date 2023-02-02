@@ -6,7 +6,6 @@
 |su (name user) | berpindah ke user lain |
 |adduser (name user baru) | membuat user baru |
 |userdel (name user) | menghapus user|
-
 |passwd | mengubah passwd |
 |groupadd (name group baru) | menambah grup baru |
 |usermod -aG (name group) (name user)| menambahkan user ke group |
